@@ -1,4 +1,4 @@
 *
 venv/
-local_settings.py
+Charity_donation/local_settings.py
 .venv
